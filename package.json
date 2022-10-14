@@ -1,0 +1,24 @@
+{
+  "name": "challenge2-solana",
+  "version": "1.0.0",
+  "description": "Metacrafter challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gandryeanb/challenge2-solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gandryeanb/challenge2-solana/issues"
+  },
+  "homepage": "https://github.com/Gandryeanb/challenge2-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.65.0",
+    "dotenv": "^16.0.3"
+  }
+}
